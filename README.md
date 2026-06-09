@@ -4,7 +4,7 @@ This repository accompanies Marcelo ROLOTTI's internship report submitted in Jun
 --------------------------
 Fabrication Files
 
-2D and 3D designs for laser cutting and 3D-printing, including larva chambers, chamber mounts, and pedestals.
+2D and 3D designs for laser cutting and 3D-printing, including larva chambers panels and chamber mount.
 
 STEP files for CAD designs
 
