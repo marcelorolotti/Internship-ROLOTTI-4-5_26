@@ -1,7 +1,9 @@
 Z-Scanning Automation & Fabrication Repository
+
 This repository accompanies Marcelo ROLOTTI's internship report submitted in June 2026. It contains the hardware design files and software source code developed for the BÖHM Spinal Dynamics Lab (Institut de Psychiatrie et Neurosciences de Paris).
 --------------------------
 Fabrication Files
+
 2D and 3D designs for laser cutting and 3D-printing, including larva chambers, chamber mounts, and pedestals.
 
 STEP files for CAD designs
@@ -13,6 +15,7 @@ DXF files ready for laser cutting
 --------------------------
 
 Software Architecture Overview
+
 The software repository contains the Program.cs source code for the standalone C# z-scanning application. The program operates on a state machine architecture running across six operational phases:
 
 Initialization: Launches the program, connects to hardware, and initiates the homing sequence.
